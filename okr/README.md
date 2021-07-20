@@ -22,7 +22,8 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 <details open>
 <summary> Key Result 3: Build 5 small and 1 big Golang project (10%) </summary>
 
-- Small Golang Projects:
+- 5 Small Golang Projects:
+
     -  20210718 [weread-hot-booklists](https://github.com/able8/weread-hot-booklists/)
     - ...
 
