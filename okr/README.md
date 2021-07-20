@@ -34,7 +34,8 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 <details open>
 <summary> Key Result 1: Read Kubernetes documentation, contribute 3 Pull Requests  (30%) </summary>
 
-- 20210720 First PR to [kubernetes/website](https://github.com/kubernetes/website/pull/29031), [fix some typos](https://github.com/kubernetes/website/pull/29031)
+- 20210720 First PR to [kubernetes/website](https://github.com/kubernetes/website/pull/29031), [[zh] Fix some typos](https://github.com/kubernetes/website/pull/29031)
+- 20210720 Second PR to [kubernetes/website](https://github.com/kubernetes/website/pull/29031), [[ja] Fix typos](https://github.com/kubernetes/website/pull/29032)
 
 - ...
 
