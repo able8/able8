@@ -43,8 +43,13 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 <details>
 <summary> Key Result 2: Read Kubernetes source code, contribute 3 Pull Requests </summary>
 </details>
-<details>
+<details open>
 <summary> Key Result 3: Read 5 Kubernetes books intensively and take notes </summary>
+
+- 20210721 Reading book [Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+
+- ...
+
 </details>
 <details>
 <summary> Key Result 4: Learn and build 2 Kubernetes Operators </summary>
