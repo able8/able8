@@ -9,7 +9,7 @@ Objectives and key results (OKR) is a goal-setting framework for defining and tr
 
 Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Architect.
 
-## Working in progress
+---
 
 ## Objective 1: Improve Golang Programming Skills
 
@@ -34,10 +34,14 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 <details open>
 <summary> Key Result 1: Read Kubernetes documentation, contribute 3 Pull Requests  (30%) </summary>
 
-- 20210720 First PR to [kubernetes/website](https://github.com/kubernetes/website/pull/29031), [[zh] Fix some typos](https://github.com/kubernetes/website/pull/29031)
-- 20210720 Second PR to [kubernetes/website](https://github.com/kubernetes/website/pull/29031), [[ja] Fix typos](https://github.com/kubernetes/website/pull/29032)
+- PRs to [kubqernetes/website](https://github.com/kubernetes/website/pull/29031)
 
-- ...
+    - 20210720 First PR [[zh] Fix some typos](https://github.com/kubernetes/website/pull/29031)
+    - 20210720 Second PR [[ja] Fix typos](https://github.com/kubernetes/website/pull/29032)
+    - 20210721 [[zh] Fix an error link](https://github.com/kubernetes/website/pull/29061)
+    - 20210722 [Fix a code block format](https://github.com/kubernetes/website/pull/29073)
+    - 20210722 [Fix an empty prerequisites section](https://github.com/kubernetes/website/pull/29080)
+
 
 </details>
 <details>
