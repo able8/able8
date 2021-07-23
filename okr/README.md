@@ -32,7 +32,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 ## Objective 2: Improve Kubernetes Programming Skills
 
 <details open>
-<summary> Key Result 1: Read <a href="/able8/able8/tree/main/okr/k8s/k8s-doc-index.md">Kubernetes documentation</a>, contribute 3 Pull Requests  (30%) </summary>
+<summary> Key Result 1: Read <a href="/okr/k8s/k8s-doc-index.md">Kubernetes documentation</a>, contribute 3 Pull Requests  (30%) </summary>
 
 - PRs to [kubqernetes/website](https://github.com/kubernetes/website/pull/29031)
 
