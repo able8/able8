@@ -13,8 +13,15 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 ## Objective 1: Improve Golang Programming Skills
 
-<details>
-<summary> Key Result 1: Read Golang documentation and source code, contribute 3 Pull Requests </summary>
+<details open>
+<summary> Key Result 1: Read Golang documentation and source code, contribute 3 Pull Requests (10%)</summary>
+
+- Contribute PRs to [ golang/go ](https://github.com/golang/go)
+
+	- 20210725 [crypto/x509: fix typo in error message](https://github.com/golang/go/pull/47383)
+	- 20210725 [net, reflect, runtime, strconv, crypto/ed25519, test: Fix 7 typos in comment](https://github.com/golang/go/pull/47384)
+
+
 </details>
 <details>
 <summary> Key Result 2: Read 5 Golang books intensively and take notes </summary>
@@ -32,9 +39,9 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 ## Objective 2: Improve Kubernetes Programming Skills
 
 <details open>
-<summary> Key Result 1: Read <a href="/okr/k8s/k8s-doc-index.md">Kubernetes documentation</a>, contribute 3 Pull Requests (50%)</summary>
+<summary> Key Result 1: Read <a href="/okr/k8s/k8s-doc-index.md">Kubernetes documentation</a>, contribute 3 Pull Requests (40%)</summary>
 
-- PRs to [kubqernetes/website](https://github.com/kubernetes/website/pull/29031)
+- Contribute PRs to [kubqernetes/website](https://github.com/kubernetes/website/pull/29031)
 
     - 20210720 First PR [[zh] Fix some typos](https://github.com/kubernetes/website/pull/29031)
     - 20210720 Second PR [[ja] Fix typos](https://github.com/kubernetes/website/pull/29032)
@@ -45,20 +52,24 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 </details>
 <details open>
-<summary> Key Result 2: Read Kubernetes source code, contribute 3 Pull Requests (10%)</summary>
+<summary> Key Result 2: Read Kubernetes source code, contribute 3 Pull Requests (30%)</summary>
 </details>
 
-- PRs to [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
+- Contribute PRs to [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
     - 20210724 First PR [Fix a typo in comment](https://github.com/kubernetes/kubernetes/pull/103872)
     - 20210725 [Fix typo in comment](https://github.com/kubernetes/kubernetes/pull/103892)
+	- 20210725 [Fix a typo in comment in apis/apps/register.go](https://github.com/kubernetes/kubernetes/pull/103897)
+	- 20210725 [fix 2 typos in comment](https://github.com/kubernetes/kubernetes/pull/103901)
+
 
 <details open>
-<summary> Key Result 3: Read 5 Kubernetes books intensively and take notes </summary>
+<summary> Key Result 3: Read 5 Kubernetes books intensively and take notes (10%)</summary>
 
-- 20210721 Reading book [Programming Kubernetes: Developing Cloud-Native Applications](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+- Books:
 
-- ...
+	- 20210721 Reading book [《Programming Kubernetes: Developing Cloud-Native Applications》](https://www.oreilly.com/library/view/programming-kubernetes/9781492047094/)
+	- 20210725 Reading book [《Kubernetes源码剖析》](https://weread.qq.com/web/reader/f1e3207071eeeefaf1e138akc81322c012c81e728d9d180)
 
 </details>
 <details>
