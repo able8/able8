@@ -23,8 +23,13 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 
 </details>
-<details>
+<details open>
 <summary> Key Result 2: Read 5 Golang books intensively and take notes </summary>
+
+- Books:
+
+	- 20210727 Reading book [《Go Design Patterns》](https://www.oreilly.com/library/view/go-design-patterns/9781786466204/)
+
 </details>
 <details open>
 <summary> Key Result 3: Build 5 small and 1 big Golang project (10%) </summary>
