@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋   ![ViewCount](https://views.whatilearened.today/views/github/able8/able8.svg)
 
 - 🔭 I’m currently working on DevOps
 - 🌱 I’m currently learning Golang, Kubernetes and Cloud-Native Architecture
