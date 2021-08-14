@@ -37,7 +37,8 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 - 5 Small Golang Projects:
 
     -  20210718 [weread-hot-booklists](https://github.com/able8/weread-hot-booklists/)
-    -  20210811 gitlab-terraform-importer
+    -  20210811 gitlab-terraform-importe
+    -  20210814 [translate-docs](https://github.com/able8/translate-docs/) 
     - ...
 
 </details>
