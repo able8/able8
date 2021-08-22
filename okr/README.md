@@ -39,6 +39,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
     -  20210718 [weread-hot-booklists](https://github.com/able8/weread-hot-booklists/)
     -  20210811 gitlab-terraform-importe
     -  20210814 [translate-docs](https://github.com/able8/translate-docs/) 
+    -  20210822 [weekly](https://github.com/able8/weekly) Get weekly newsletters of Golang, SRE, DevOps, and Kubernetes.
     - ...
 
 </details>
