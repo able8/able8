@@ -33,6 +33,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 - Blogs:
 
 	- 20210901 30 blogs
+	- 20210927 120 blogs
 
 </details>
 <details open>
@@ -85,6 +86,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 - Blogs:
 
 	- 20210901 30 blogs
+	- 20210927 85 blogs
 
 </details>
 <details>
@@ -95,6 +97,11 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 <details>
 <summary> Key Result 1: Read 2 Cloud Native books and 50 blogs </summary>
+	
+- Blogs:
+
+	- 20210927 50 blogs
+	
 </details>
 <details>
 <summary> Key Result 2: Contribute 3 Pull Requests to the CNCF ecosystem </summary>
