@@ -58,7 +58,6 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
     - 20210720 First PR [[zh] Fix some typos](https://github.com/kubernetes/website/pull/29031)
     - 20210720 Second PR [[ja] Fix typos](https://github.com/kubernetes/website/pull/29032)
-    - 20210721 [[zh] Fix an error link](https://github.com/kubernetes/website/pull/29061)
     - 20210722 [Fix a code block format](https://github.com/kubernetes/website/pull/29073)
     - 20210722 [Fix an empty prerequisites section](https://github.com/kubernetes/website/pull/29080)
 
@@ -71,9 +70,6 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 - Contribute PRs to [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes)
 
     - 20210724 First PR [Fix a typo in comment](https://github.com/kubernetes/kubernetes/pull/103872)
-    - 20210725 [Fix typo in comment](https://github.com/kubernetes/kubernetes/pull/103892)
-	- 20210725 [Fix a typo in comment in apis/apps/register.go](https://github.com/kubernetes/kubernetes/pull/103897)
-	- 20210725 [fix 2 typos in comment](https://github.com/kubernetes/kubernetes/pull/103901)
 
 
 <details open>
