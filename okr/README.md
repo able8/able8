@@ -50,6 +50,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
     -  20210814 [translate-docs](https://github.com/able8/translate-docs/) 
     -  20210822 [weekly](https://github.com/able8/weekly) Get weekly newsletters of Golang, SRE, DevOps, and Kubernetes.
     -  20211210 pod-restart-info-collector
+    -  20220120 scrape-aliyun-doc
     - ...
 
 </details>
