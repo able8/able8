@@ -14,7 +14,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 ## Objective 1: Improve Golang Programming Skills (70%)
 
 <details>
-<summary> Key Result 1: Read Golang documentation and source code, contribute 3 Pull Requests (50%)</summary>
+<summary> Key Result 1: Read Golang documentation and source code, contribute 3 Pull Requests (60%)</summary>
 
 - Contribute PRs to [ golang/go ](https://github.com/golang/go)
 
@@ -24,7 +24,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 </details>
 <details>
-<summary> Key Result 2: Read 2 Golang books and 100 blogs (90%)</summary>
+<summary> Key Result 2: Read 2 Golang books and 100 blogs (100%)</summary>
 
 - Books:
 
@@ -41,7 +41,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 </details>
 <details>
-<summary> Key Result 3: Build 5 small and 1 big Golang project (70%) </summary>
+<summary> Key Result 3: Build 5 small and 1 big Golang project (80%) </summary>
 
 - 5 Small Golang Projects:
 
@@ -54,10 +54,10 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 
 </details>
 
-## Objective 2: Improve Kubernetes Programming Skills (40%)
+## Objective 2: Improve Kubernetes Programming Skills (60%)
 
 <details>
-<summary> Key Result 1: Read <a href="/okr/k8s/k8s-doc-index.md">Kubernetes documentation</a>, contribute 3 Pull Requests (40%)</summary>
+<summary> Key Result 1: Read <a href="/okr/k8s/k8s-doc-index.md">Kubernetes documentation</a>, contribute 3 Pull Requests (100%)</summary>
 
 - Contribute PRs to [kubqernetes/website](https://github.com/kubernetes/website/pull/29031)
 
@@ -78,7 +78,7 @@ Improve Golang, Kubernetes and Cloud Native Skills to Become a Cloud Native Arch
 </details>
 
 <details>
-<summary> Key Result 3: Read 2 Kubernetes books and 100 blogs (90%)</summary>
+<summary> Key Result 3: Read 2 Kubernetes books and 100 blogs (100%)</summary>
 
 - Books:
 
